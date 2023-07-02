@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/TastBiteReact/static/css/main.27ce36bc.css",
+    "main.js": "/TastBiteReact/static/js/main.795bc9d8.js",
+    "static/js/86.619cadd7.chunk.js": "/TastBiteReact/static/js/86.619cadd7.chunk.js",
+    "static/js/120.73aa3d52.chunk.js": "/TastBiteReact/static/js/120.73aa3d52.chunk.js",
+    "static/js/180.740199c7.chunk.js": "/TastBiteReact/static/js/180.740199c7.chunk.js",
+    "static/js/262.78a534de.chunk.js": "/TastBiteReact/static/js/262.78a534de.chunk.js",
+    "static/js/857.a9f275a5.chunk.js": "/TastBiteReact/static/js/857.a9f275a5.chunk.js",
+    "static/media/MontserratMedium.ttf": "/TastBiteReact/static/media/MontserratMedium.c86e3b9010ff63c99166.ttf",
+    "static/media/MontserratBold.ttf": "/TastBiteReact/static/media/MontserratBold.2c155811b35513d5beaa.ttf",
+    "index.html": "/TastBiteReact/index.html",
+    "main.27ce36bc.css.map": "/TastBiteReact/static/css/main.27ce36bc.css.map",
+    "main.795bc9d8.js.map": "/TastBiteReact/static/js/main.795bc9d8.js.map",
+    "86.619cadd7.chunk.js.map": "/TastBiteReact/static/js/86.619cadd7.chunk.js.map",
+    "120.73aa3d52.chunk.js.map": "/TastBiteReact/static/js/120.73aa3d52.chunk.js.map",
+    "180.740199c7.chunk.js.map": "/TastBiteReact/static/js/180.740199c7.chunk.js.map",
+    "262.78a534de.chunk.js.map": "/TastBiteReact/static/js/262.78a534de.chunk.js.map",
+    "857.a9f275a5.chunk.js.map": "/TastBiteReact/static/js/857.a9f275a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27ce36bc.css",
+    "static/js/main.795bc9d8.js"
+  ]
+}
